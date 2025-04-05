@@ -1,6 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![Uploading Screenshot 2025-04-05 at 3.46.18 PM.png…]()
 
 ## Getting Started
 

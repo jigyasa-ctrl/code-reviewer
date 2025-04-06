@@ -1,7 +1,6 @@
 import express from "express"
 import cors from 'cors'
 import generateReview from "./review.js"
-// const express = require("express");
 const app = express();
 const port = 3000;
 
@@ -12,7 +11,6 @@ app.use(cors())
 app.post('/api/v1/reviews', async (req, res) => {
     const code = req.body.code;
     try {
-        console.log(code)
         const review = await generateReview(code)
         return res.send({
             review
@@ -27,5 +25,5 @@ app.post('/api/v1/reviews', async (req, res) => {
 })
 
 app.listen(port, () =>{
-    console.log("server is running at port" + port)
+    console.log("server is running at port " + port)
 })

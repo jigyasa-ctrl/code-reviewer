@@ -1,6 +1,8 @@
+# This is a code reviewer app made with ollama llm model -> codellama:7b.
+
 <img width="1470" alt="Screenshot 2025-04-05 at 3 46 18 PM" src="https://github.com/user-attachments/assets/e7b95f13-a684-4468-830c-3bc24498f071" />
 
-This is a code reviewer app made with ollama llm model -> codellama:7b.
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 

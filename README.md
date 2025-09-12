@@ -3,7 +3,7 @@
 
 # AI Code Reviewer
 
-A local-first, AI-powered code review app built with Next.js, Ollama (`codellama:7b`), and LangChain.
+A local-first, AI-powered code review app built with Next.js, Ollama (`codellama:7b`), NodeJS, ExpressJS and LangChain.
 
 **Features**:
 - Paste or upload code to receive real-time feedback on style, best practices, and potential bugs.
